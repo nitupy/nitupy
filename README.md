@@ -29,6 +29,9 @@
 #### ➜ 🐍 Python
 #### ➜ 🎨 HTML, CSS, JS
 
+<br>
+</br>
+
 # SHS Safety ↓
 
 <p align="center">

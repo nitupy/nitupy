@@ -7,6 +7,7 @@
 <br />
  
 # Skills + Interests
+
 ### ➜ 📱 Flutter
 ### ➜ 🎯 Dart
 ### ➜ 🔩 React Native + React
@@ -17,11 +18,13 @@
 
 <p align="center">
 
-SHS Safety is an app that is being designed to provide students in a school with a simple and effective way to notify an administrator in the event of an emergency on school grounds. The app incorporates STEM principles to create a cutting-edge solution to a real-world problem that exists in most high schools. It utilizes advanced location-based technology to quickly pinpoint the student's location and relay that information to the school's administrators in real-time. 
+* SHS Safety is an app that is being designed to provide students in a school with a simple and effective way to notify an administrator in the event of an emergency on school grounds. The app incorporates STEM principles to create a cutting-edge solution to a real-world problem that exists in most high schools. It utilizes advanced location-based technology to quickly pinpoint the student's location and relay that information to the school's administrators in real-time. 
 
 </p>
     
 ## Overview 👀 
+
+<div>
 
 <img src="https://user-images.githubusercontent.com/128609917/231061533-cbbdbad4-9f98-43ed-bd73-03104e5741b8.png" align="right" alt="Size Limit logo by Anton Lovchikov" width="200">
 
@@ -36,7 +39,7 @@ SHS Safety is an app that is being designed to provide students in a school with
 * SHS Safety is being developed using a framework called Flutter, which is a cross-platform development tool that allows for the creation of high-quality mobile apps for both iOS and Android platforms
 * Flutter is a free and open-source framework that was developed by Google, and it has become increasingly popular among mobile app developers due to its ease of use and versatility 
 
-
+</div>
 
 
 

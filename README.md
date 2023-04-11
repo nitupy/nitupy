@@ -10,7 +10,7 @@ Greetings! My name is Nitish Gannu and I am a high school student interested in 
 
 # Current Project 📱 
 
-![shssafetypreview](https://user-images.githubusercontent.com/128609917/231055259-168d1df5-564f-4849-8a15-10f08ab1af3d.png)
+
 
 
 

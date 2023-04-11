@@ -1,12 +1,27 @@
-<div align="center">
 
-  <img src="https://user-images.githubusercontent.com/128609917/231065561-1c996888-321d-4ef4-a7e9-3bdc6edf2f94.png" alt="logo" width="200" height="auto" />
- 
+<div align="center">
+  <a href="https://github.com/">
+    <img src="https://user-images.githubusercontent.com/128609917/231241687-5bbddba3-ae53-4545-a088-bca9a7a68ae7.png" alt="Logo" width="200" height="auto">
+  </a>  
+  
+  <h3 align="center">Hi I'm Nitish Gannu 👋🏽</h3>
+
+  <p align="center">
+   Programmer & Web Developer
+    <br />
+    <a href="https://github.com/"><strong>Porfolio Website »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/">LinkedIn</a>
+    ·
+    <a href="https://github.com/othneildrew/">Contact Me</a>
+  </p>
 </div>
 
-<br />
+<br>
+</br>
  
-# Skills + Interests
+### Skills + Interests
 
 #### ➜ 📱 Flutter
 #### ➜ 🎯 Dart

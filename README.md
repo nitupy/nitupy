@@ -8,11 +8,11 @@
  
 # Skills + Interests
 
-### ➜ 📱 Flutter
-### ➜ 🎯 Dart
-### ➜ 🔩 React Native + React
-### ➜ 🐍 Python
-### ➜ 🎨 HTML, CSS, JS
+#### ➜ 📱 Flutter
+#### ➜ 🎯 Dart
+#### ➜ 🔩 React Native + React
+#### ➜ 🐍 Python
+#### ➜ 🎨 HTML, CSS, JS
 
 # SHS Safety ↓
 

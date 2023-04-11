@@ -3,7 +3,8 @@ Greetings! My name is Nitish Gannu and I am a high school student interested in 
 
 # Skills
 * 📱 Flutter
-* 🔩 React Native
+* 🎯 Dart
+* 🔩 React Native + React
 * 🐍 Python
 * 🎨 HTML, CSS, JS
 

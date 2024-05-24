@@ -7,7 +7,7 @@
   <h3 align="center">Hi I'm Nitish Gannu 👋🏽</h3>
 
   <p align="center">
-   Programmer & Web Developer
+    Bioinformatics 🧪 & Computational Biology 🧬
     <br />
     <a href="https://github.com/"><strong>Porfolio Website »</strong></a>
     <br />

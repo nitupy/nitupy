@@ -23,11 +23,11 @@
  
 ### Skills + Interests
 
-#### ➜ 📱 Flutter
-#### ➜ 🎯 Dart
-#### ➜ 🔩 React Native + React
-#### ➜ 🐍 Python
-#### ➜ 🎨 HTML, CSS, JS
+#### ➜ Python
+#### ➜ R
+#### ➜ Statistical Analysis Software
+#### ➜ SQL 
+
 
 <br>
 </br>
